@@ -66,4 +66,4 @@ This lab demonstrates how to **eliminate public internet exposure** for an Azure
 Lab 5 successfully demonstrated private-only access to Azure File Shares using service endpoints and NSG-based subnet isolation. The solution eliminates public exposure and enforces strict access control.i8
 
 **FuturinCLOUD Limited** – Securing cloud environments across Africa  
-L
+
